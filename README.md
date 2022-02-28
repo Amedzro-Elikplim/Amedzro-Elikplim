@@ -1,5 +1,5 @@
 # Hi there 👋..am Amedzro Emmanuel Elikplim
-  ### Am an ambivert who codes, tech enthusiast, loves learning new stuffs, meeting new people, microverse student and my brain only works at night
+  ### Am an ambivert😉 who codes, tech enthusiast🐱‍👤, loves learning new stuffs, meeting new people😁😁, microverse student🏬 and my brain only works at night
 
 - 🔭 I’m currently working on Terappy, a plaform to connect clients to therapists
 - 🌱 I’m currently learning Ruby on rails
