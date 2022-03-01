@@ -1,10 +1,10 @@
 # Hi there 👋..am Amedzro Emmanuel Elikplim
-  ## Am an ambivert😉 who codes, tech enthusiast🐱‍👤, loves learning new stuffs, meeting new people😁😁, microverse student🏬 and my brain only works at night
+  ## An ambivert😉 who codes, tech enthusiast🐱‍👤, loves learning new stuffs, meeting new people😁😁 and microverse student🏬 
 
 - 🔭 I’m currently working on Terappy, a plaform to connect clients to therapists
 - 🌱 I’m currently learning Ruby on rails
 - 👯 I’m looking to collaborate on Ruby and react projects
-- 🤔 I’m looking for help with how go grow my twitter fan base
+- 🤔 I’m looking for help with web3 and blockchain
 - 💬 Ask me about how to train model using google vision API and autoML
 - 📫 How to reach me: amedzroemmanuel@gmail.com
 - 😄 Pronouns: He/Him
