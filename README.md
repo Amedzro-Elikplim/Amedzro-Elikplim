@@ -12,16 +12,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Behind every successful programmer is a girlfriend who does not exist 😂😂
 
-## Check out my stats
+## Checkout my Github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amedzro-Elikplim&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-## Checkout languages I code with
+## Checkout my tech stack
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amedzro-Elikplim&langs_count=10&layout=compact&theme=radical" />
 </a>
 
-## Check out the time i spent coding daily
+## Checkout the time i spent coding daily
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amedzro_Elikplim&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
