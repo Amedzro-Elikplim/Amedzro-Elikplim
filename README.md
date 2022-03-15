@@ -11,6 +11,7 @@
 - 📫 How to reach me: amedzroemmanuel@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Behind every successful programmer is a girlfriend who does not exist 😂😂
+- 👨🏾 Personal Portolio site: https://amedzro-elikplim.github.io/Portfolio/
 
 ## Checkout my Github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
