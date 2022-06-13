@@ -3,7 +3,7 @@
 ## About me
    I'm an ambivert😉 who codes, tech enthusiast🐱‍👤, loves learning new stuffs, meeting new people😁😁 and a student🏬 of microverse 
 
-- 🔭 I’m currently working on Terappy, a plaform to connect clients to therapists. Check it out https://terappy.netlify.app/
+- 🔭 I’m currently working on Terappy, a platform to connect clients to therapists. Check it out https://terappy.netlify.app/
 - 🌱 I’m currently learning Ruby on rails
 - 👯 I’m looking to collaborate on Ruby and react projects
 - 🤔 I’m looking for help with web3 and blockchain
