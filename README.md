@@ -26,5 +26,5 @@
 ## Checkout the time i spent coding daily
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amedzro_Elikplim&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Checkot my streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amedzro_Elikplim)](https://git.io/streak-stats)
+## Checkout my streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amedzro_Elikplim&theme=radical)](https://git.io/streak-stats)
