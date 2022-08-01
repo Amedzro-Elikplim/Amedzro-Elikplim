@@ -28,3 +28,6 @@
 
 ## Checkout my contributions and streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amedzro-Elikplim&theme=radical)](https://git.io/streak-stats)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
