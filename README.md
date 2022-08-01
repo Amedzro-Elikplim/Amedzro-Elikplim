@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=Amedzro-Elikplim&theme=radical)
+
 # Hi there 👋..am Amedzro Emmanuel Elikplim
 
 ## About me
@@ -29,7 +31,6 @@
 ## Checkout my contributions and streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amedzro-Elikplim&theme=radical)](https://git.io/streak-stats)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Amedzro-Elikplim&theme=radical)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
