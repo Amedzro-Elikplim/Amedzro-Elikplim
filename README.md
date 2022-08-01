@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on Terappy, a platform to connect clients to therapists. Check it out https://terappy.netlify.app/
 - 🌱 I’m currently learning Ruby on rails
 - 👯 I’m looking to collaborate on Ruby and react projects
-- 🤔 I’m looking for help with web3 and blockchain
+- 🤔 I’m looking for help with web3 and blockchain                                                       ## 😂 Here is a random joke that'll make you laugh!
+                                                                                                         ![Jokes Card](https://readme-jokes.vercel.app/api)
 - 💬 Ask me about how to train model using google vision API and autoML
 - 📫 How to reach me: amedzroemmanuel@gmail.com
 - 😄 Pronouns: He/Him
@@ -29,5 +30,4 @@
 ## Checkout my contributions and streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amedzro-Elikplim&theme=radical)](https://git.io/streak-stats)
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
