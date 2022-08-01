@@ -27,4 +27,4 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amedzro_Elikplim&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Checkout my contributions and streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eli&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amedzro-Emmanuel&theme=radical)](https://git.io/streak-stats)
