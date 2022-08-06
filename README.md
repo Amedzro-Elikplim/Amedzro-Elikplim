@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Amedzro-Elikplim&theme=radical)
 
-# Hi there 👋..am Amedzro Emmanuel Elikplim
+# Hi there 👋..I'm Amedzro Emmanuel Elikplim
 
 ## About me
    I'm an ambivert😉 who codes, tech enthusiast🐱‍👤, loves learning new stuffs, meeting new people😁😁 and a student🏬 of microverse 
