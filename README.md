@@ -14,7 +14,7 @@ I'm a full-stack developer, experienced in using programming tools and languages
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Behind every successful programmer is a girlfriend who does not exist 😂😂
 - 👨🏾 Personal Portolio site: https://amedzro-elikplim.github.io/Portfolio/
-- 🤩 Checkout my new portfolio design on figma https://www.figma.com/file/iw8hI1CPgyLilzmU2JYnXJ/Portfolio?node-id=0%3A1
+- 🤩 Checkout the new portfolio design am currently working on figma https://www.figma.com/file/iw8hI1CPgyLilzmU2JYnXJ/Portfolio?node-id=0%3A1
 
 ## Checkout my Github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
