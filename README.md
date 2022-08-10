@@ -3,7 +3,7 @@
 # Hi there 👋..I'm Amedzro Emmanuel Elikplim
 
 ## About me
-   I'm an ambivert😉 who codes, tech enthusiast🐱‍👤, loves learning new stuffs, meeting new people😁😁 and a student🏬 of microverse 
+I'm a full-stack developer, experienced in using programming tools and languages like React, React-Native, Nodejs, Nestjs, Ruby on Rails, MongoDB, and PostgreSQL to build software solutions
 
 - 🔭 I’m currently working on Terappy, a platform to connect clients to therapists. Check it out https://terappy.netlify.app/
 - 🌱 I’m currently learning Ruby on rails
@@ -14,6 +14,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Behind every successful programmer is a girlfriend who does not exist 😂😂
 - 👨🏾 Personal Portolio site: https://amedzro-elikplim.github.io/Portfolio/
+- Checkout my new portfolio design on figma https://www.figma.com/file/iw8hI1CPgyLilzmU2JYnXJ/Portfolio?node-id=0%3A1
 
 ## Checkout my Github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
